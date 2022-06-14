@@ -11,7 +11,7 @@ Let's get things up and running!
 Firstly, clone this repository and navigate into the main codebase
 
 ```console
-git clone <your-repo-here>
+git clone <https://github.com/GovTechSG/2022-geekout-gds.git>
 git fetch
 cd 2022-geekout-gds
 ```
